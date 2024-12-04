@@ -1,0 +1,418 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Joseph Conley",
+    "label": "Junior Cybersecurity Analyst",
+    "image": "",
+    "email": "conleyjd11@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "As a dedicated professional with a rich background in advertising and a newfound passion for cybersecurity, I stand at an exciting crossroads in my career. My journey into this dynamic and ever-evolving field began with a keen interest in the intricacies of digital security and the desire to make a tangible impact in safeguarding information.\n\nI hold a Cybersecurity Management Certificate and have gained hands-on experience through the Colorado Cybersecurity Apprenticeship Program, where I've honed my skills in various roles including Security Engineer, Malware/Security Analyst, Penetration Tester, and Incident Response. These roles have not only deepened my technical acumen but also allowed me to apply my strong communication and problem-solving skills, honed from my advertising background, in new and challenging contexts.\n\nMy transition into cybersecurity is driven by a commitment to continuous learning and a desire to contribute to a field that is critical to our digital world. I am actively seeking opportunities as an IT Help Desk professional, where I can apply my blend of technical knowledge and customer-focused approach to support and enhance organizational IT infrastructures.\n\nI am eager to connect with fellow professionals and thought leaders in the cybersecurity and IT fields. Let's share insights, challenges, and successes in our mutual quest to advance in this vital sector.",
+    "location": {
+      "countryCode": "US",
+      "address": "United States"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "conleyjoseph",
+        "url": "https://www.linkedin.com/in/conleyjoseph/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Wolf's Ridge Brewing",
+      "position": "Bartender Manager",
+      "startDate": "2023-06-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "- Introduced a customer loyalty program to improve repeat business and foster strong relationships with guests.\n- Led daily pre-shift meetings to communicate restaurant updates, menu changes, and provide continuous training for staff.\n- Coordinated with the kitchen team to design, test, and launch seasonal menu items, keeping the offerings\nfresh and appealing.",
+      "url": "https://www.linkedin.com/company/wolf%27s-ridge-brewing/",
+      "location": "Columbus, Ohio, United States"
+    },
+    {
+      "name": "University of Colorado Colorado Springs",
+      "position": "Apprentice- Security Engineer",
+      "startDate": "2022-01-31",
+      "endDate": "2023-07-31",
+      "highlights": [],
+      "summary": "- Managed multiple AWS EC2 instances with load balancers to ensure the scalability and high availability of web applications.\n- Proactively identified and resolved performance bottlenecks using AWS CloudWatch alarms and custom monitoring dashboards.\n- Designed and implemented automated backup and disaster recovery strategies leveraging AWS S3 and EBS snapshots.",
+      "url": "https://www.linkedin.com/school/university-of-colorado-colorado-springs/",
+      "location": "Colorado Springs, Colorado, United States"
+    },
+    {
+      "name": "University of Colorado Colorado Springs",
+      "position": "Apprentice- Malware/Security Analyst",
+      "startDate": "2021-07-31",
+      "endDate": "2021-12-31",
+      "highlights": [],
+      "summary": "- Investigated malware, managed security incidents, and led phishing simulations, enhancing network security and reducing breaches by 10%.\n- Handled escalated security tickets, resolving internet connectivity and email issues, ensuring timely and effective incident resolution.\n- Resolved 95% of trouble tickets on the first call without the need for escalation.\n- Maintained and supported network and security infrastructure, troubleshooting connectivity issues and managing data communication challenges.",
+      "url": "https://www.linkedin.com/school/university-of-colorado-colorado-springs/",
+      "location": "Colorado Springs, Colorado, United States"
+    },
+    {
+      "name": "University of Colorado Colorado Springs",
+      "position": "Apprentice- Penetration Tester",
+      "startDate": "2021-01-31",
+      "endDate": "2021-06-30",
+      "highlights": [],
+      "summary": "- Identified phishing attempts and implemented advanced cryptographic methods, significantly enhancing system and data protection.\n- Led and participated in technical training programs, elevating employee awareness and expertise in cybersecurity practices.\n- Escalated only complex security tickets within the call-tracking database, ensuring timely resolutions by specialized teams.",
+      "url": "https://www.linkedin.com/school/university-of-colorado-colorado-springs/",
+      "location": "Colorado Springs, Colorado, United States"
+    },
+    {
+      "name": "University of Colorado Colorado Springs",
+      "position": "Apprentice- Incident Response Manager",
+      "startDate": "2020-07-31",
+      "endDate": "2020-12-31",
+      "highlights": [],
+      "summary": "- Monitored and responded to security incidents within AWS environments, leveraging AWS CloudTrail and AWS Config to ensure compliance and maintain system integrity.\n- Collaborated with the security team to design and implement incident response playbooks, utilizing AWS IAM and security groups to control access and minimize potential threats.\n- Participated in incident post-mortems and cloud infrastructure audits, using insights from AWS Trusted Advisor and AWS CloudWatch to improve response strategies and optimize cloud resource management.",
+      "url": "https://www.linkedin.com/school/university-of-colorado-colorado-springs/",
+      "location": "Colorado Springs, Colorado, United States"
+    },
+    {
+      "name": "Hiebing",
+      "position": "Social Media Manager",
+      "startDate": "2016-06-30",
+      "endDate": "2019-10-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/hiebing/",
+      "location": "Madison, Wisconsin, United States"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Meals on Wheels America",
+      "position": "Driver",
+      "startDate": "2010-01-31",
+      "endDate": "2010-01-31",
+      "summary": null,
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/240006"
+    },
+    {
+      "organization": "Henry Villas Zoo",
+      "position": "Fundraising Volunteer",
+      "startDate": "2015-07-31",
+      "endDate": "2018-12-31",
+      "summary": null,
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Colorado Colorado Springs",
+      "area": "Cybersecurity Management",
+      "studyType": "Certificate",
+      "startDate": "2020-01-31",
+      "endDate": "2022-06-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Wisconsin-Whitewater",
+      "area": "Communication, General",
+      "studyType": "Bachelor of Arts - BA",
+      "startDate": "2011-12-31",
+      "endDate": "2016-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Wisconsin-Madison",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Cybersecurity Management",
+      "issuer": "University of Colorado Colorado Springs",
+      "startDate": "2022-05-31"
+    },
+    {
+      "name": "Security+",
+      "issuer": "CompTIA"
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services (AWS)",
+      "endDate": "2027-09-30",
+      "startDate": "2024-09-30",
+      "url": "https://aws.amazon.com/verification"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Service Desk",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Incident Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LAN-WAN",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "IP Networking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Time Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Information Technology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Public Speaking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "penetration tester",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vulnerability",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vulnerability Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Instagram",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Analytics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cybersecurity",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Help Desk Support",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Risk Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Twitter",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Network Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Identity and Access Management (IAM)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategic Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Wireshark",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ServiceNow",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Social Media Marketing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Nmap",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Implementation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adaptability",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Technical Support",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Facebook",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cyber Security Risk",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Critical Thinking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ticketing Systems",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Security Incident Response",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "YouTube",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Advertising",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Incident Response",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Social Media",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Automation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Attack Surface Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Corporate Communications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Word",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Social Media Outreach",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Application Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Writing",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native Speaker",
+      "language": "English"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
